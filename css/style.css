@@ -1,3 +1,20 @@
 * {
     margin: 0;
 }
+
+body {
+    padding: O;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+#message-container {
+    width: 80%;
+    max-width: 1200px;
+}
+
+#message-container div {
+    background-color: #CCC;
+    padding: 5px;
+}
